@@ -1,3 +1,2 @@
-# C41_SpeedRacer
-Classwork for SpeedRacer.
-This is my boring README
+# C41RV_SpeedRacer_StudentActivity
+Student Activity
